@@ -1,4 +1,4 @@
-# text customtkinter 
+# text editor with customtkinter 
 **pré-visualização Markdown em tempo real** ao teu editor!
 - Usado o módulo `markdown` para converter o texto para HTML, e um widget de `CTkTextbox` à direita para mostrar o conteúdo convertido.
 
